@@ -32,6 +32,8 @@
 
 <br/>
 
+<b> Para executar localmente: </b>
+
 - Para rodar o projeto em seu computador, clone este repositório no mesmo, execute esse comando no terminal `docker-compose up` dentro do diretório do projeto.
 - <b>Obs.:</b> é necessário ter o docker instalado no seu computador.
 
@@ -46,6 +48,6 @@
 <br/>
 
 
-Dúvidas:
+<b>Dúvidas:</b>
 <br/>
 `email: fernando.pavan@outlook.com`

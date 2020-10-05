@@ -47,6 +47,7 @@
 <b> Para rodar somente o back-end: </b>
 - Clone este repositório: <a>https://github.com/fernandopavan/order-api</a> 
 - Execute os seguintes comandos na raiz do projeto: `mvn instal` `java -jar target/nome_projeto.jar`
+- Criar e configurar o banco de dados Postgres (localhost:5432): `usuario=order_owner` | `senha=123456` | `banco=projeto_order`
 - <b>Obs.:</b> é necessário ter o Java instalado no seu computador.
 
 <br/>
